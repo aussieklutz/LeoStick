@@ -1,0 +1,311 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /5A9A4536;
+Reference = C1;
+ValeurCmp = CAP0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A45FE;
+Reference = C2;
+ValeurCmp = CAP0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A46C6;
+Reference = C3;
+ValeurCmp = CAP0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A478E;
+Reference = C4;
+ValeurCmp = CAP0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A4856;
+Reference = C5;
+ValeurCmp = CAP0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A491E;
+Reference = C6;
+ValeurCmp = CAP0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A49E6;
+Reference = F1;
+ValeurCmp = L-EUL1812;
+IdModule  = RCL_L1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A4EFA;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4-QFN;
+IdModule  = FREETRONICS-JON_QFN-44N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A4FC2;
+Reference = ICSP17;
+ValeurCmp = PINHD-2X3;
+IdModule  = PINHEAD_2X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A508A;
+Reference = JP1;
+ValeurCmp = M14;
+IdModule  = FREETRONICS-JON_1X14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5152;
+Reference = JP2;
+ValeurCmp = M14;
+IdModule  = FREETRONICS-JON_1X14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A521A;
+Reference = LED1;
+ValeurCmp = RGBLEDSMT;
+IdModule  = FREETRONICS-MASTER-V1_19-337;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A52E2;
+Reference = LED2;
+ValeurCmp = RGBLEDSMT;
+IdModule  = FREETRONICS-MASTER-V1_19-337;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A53AA;
+Reference = P1;
+ValeurCmp = USBPCB;
+IdModule  = FREETRONICS-MASTER-V1_USB-A-PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5472;
+Reference = PIEZO17;
+ValeurCmp = BUZZERSMD12X12;
+IdModule  = FREETRONICS-MASTER-V1_BUZZER-12X12-SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A553A;
+Reference = R1;
+ValeurCmp = RESISTOR0603;
+IdModule  = FREETRONICS-MASTER-V1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5602;
+Reference = R2;
+ValeurCmp = RESISTOR0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A56CA;
+Reference = RN2;
+ValeurCmp = 4R-NCAY16;
+IdModule  = RESISTOR-DIL_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A58BE;
+Reference = RN3;
+ValeurCmp = 4R-NCAY16;
+IdModule  = RESISTOR-DIL_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A59EA;
+Reference = RN4;
+ValeurCmp = 4R-NCAY16;
+IdModule  = RESISTOR-DIL_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5BDE;
+Reference = S1;
+ValeurCmp = TAC_SWITCH_2PIN;
+IdModule  = FREETRONICS-MASTER-V1_TACTILE_SWITCH_SMD_2PIN_TINY;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5CA6;
+Reference = SJ1;
+ValeurCmp = SJ;
+IdModule  = JUMPER_SJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5D6E;
+Reference = SJ2;
+ValeurCmp = SJ;
+IdModule  = JUMPER_SJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A5E36;
+Reference = SJ3;
+ValeurCmp = SJTINY;
+IdModule  = FREETRONICS-MASTER-V1_SJ-TINY;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A60F2;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A61BA;
+Reference = VP_1;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6282;
+Reference = VP_2;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A634A;
+Reference = VP_3;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6412;
+Reference = VP_4;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A64DA;
+Reference = VP_5;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A65A2;
+Reference = VP_6;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A666A;
+Reference = VP_7;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6732;
+Reference = VP_8;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A67FA;
+Reference = VP_9;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A68C2;
+Reference = VP_10;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A698A;
+Reference = VP_11;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6A52;
+Reference = VP_12;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6B1A;
+Reference = VP_13;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6BE2;
+Reference = VP_14;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6CAA;
+Reference = VP_15;
+ValeurCmp = VPDEV1;
+IdModule  = VPAD_VPAC1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6D72;
+Reference = XTL1;
+ValeurCmp = CRYSTAL-GND3X2;
+IdModule  = FREETRONICS-JON_CRYSTAL-SMD-3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6E3A;
+Reference = Z1;
+ValeurCmp = RESISTOR0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6F02;
+Reference = Z2;
+ValeurCmp = RESISTOR0603;
+IdModule  = FREETRONICS-MASTER-V1.1_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A9A6FCA;
+Reference = Z3;
+ValeurCmp = DIODESMA;
+IdModule  = FREETRONICS-MASTER-V1_SMA-DIODE;
+EndCmp
+
+EndListe

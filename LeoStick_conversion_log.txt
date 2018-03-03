@@ -1,0 +1,114 @@
+#********** START OF renumber-sheet.ulp ULP Version 4.4.4 03-03-2018 :16:45:59 LOG **********#
+#OldRef				SheetNumber	NewRef
+ICSP				1	ICSP17
+PIEZO				1	PIEZO17
+#********** END OF renumber-sheet.ulp ULP Version 4.4.4 03-03-2018 :16:45:59 LOG **********#
+
+#********** START OF fix_via_hack.ulp ULP Version 4.8.0 03-03-2018 :16:46:11 LOG **********#
+TRACK	WireCount=1		Net=GND				start(X=37109.400000 Y=3403.600000)	end(X=37312.600000 Y=3403.600000 )
+TRACK	WireCount=2		Net=GND				start(X=37312.600000 Y=3403.600000)	end(X=37998.400000 Y=2717.800000 )
+TRACK	WireCount=3		Net=GND				start(X=37998.400000 Y=2717.800000)	end(X=38608.000000 Y=2717.800000 )
+TRACK	WireCount=4		Net=N$4				start(X=28829.000000 Y=3810.000000)	end(X=29972.000000 Y=3810.000000 )
+TRACK	WireCount=5		Net=N$5				start(X=15240.000000 Y=11557.000000)	end(X=15240.000000 Y=10160.000000 )
+VIA	ViaCount=1		Net=GND				(X=13208.000000 Y=11912.600000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=2		Net=GND				(X=20320.000000 Y=7137.400000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=3		Net=GND				(X=14706.600000 Y=15671.800000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=4		Net=GND				(X=24688.800000 Y=4927.600000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=5		Net=GND				(X=44323.000000 Y=11379.200000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=6		Net=GND				(X=21590.000000 Y=7137.400000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=7		Net=GND				(X=21717.000000 Y=13055.600000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=8		Net=GND				(X=21640.800000 Y=10388.600000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=9		Net=GND				(X=22453.600000 Y=5181.600000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=10		Net=GND				(X=22504.400000 Y=6299.200000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=11		Net=GND				(X=13335.000000 Y=4597.400000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=12		Net=GND				(X=17119.600000 Y=15671.800000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=13		Net=GND				(X=15849.600000 Y=15671.800000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=14		Net=GND				(X=37109.400000 Y=3403.600000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=15		Net=GND				(X=38608.000000 Y=2717.800000)	LayerStart=1	LayerEnd=16
+VIA	ViaCount=16		Net=GND				(X=45974.000000 Y=3352.800000)	LayerStart=1	LayerEnd=16
+PADFILL	PadCount=2		Net=GND				(X=20320.000000 Y=6248.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=4		Net=GND				(X=23368.000000 Y=9550.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=6		Net=GND				(X=20320.000000 Y=8026.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=7		Net=GND				(X=21590.000000 Y=6248.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=9		Net=GND				(X=19177.000000 Y=13716.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=11		Net=GND				(X=24231.600000 Y=12192.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=19		Net=GND				(X=32983.715625 Y=11347.009375)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=29		Net=GND				(X=28528.940625 Y=12407.668750)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=37		Net=GND				(X=26054.068750 Y=8660.003125)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=49		Net=GND				(X=31215.946875 Y=5478.021875)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=57		Net=GND				(X=34044.375000 Y=8306.450000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=59		Net=GND				(X=30226.000000 Y=9296.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=94		Net=GND				(X=46674.000000 Y=13372.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=100		Net=GND				(X=46674.000000 Y=3720.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=101		Net=GND				(X=46674.000000 Y=4470.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=102		Net=GND				(X=46674.000000 Y=5220.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=107		Net=GND				(X=4880.000000 Y=12796.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=110		Net=GND				(X=30130.000000 Y=9296.400000)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=112		Net=GND				(X=21590.000000 Y=8026.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=140		Net=GND				(X=45720.000000 Y=11346.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=147		Net=GND				(X=29972.000000 Y=3784.600000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=149		Net=GND				(X=20567.000000 Y=13955.600000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=151		Net=GND				(X=22867.000000 Y=12155.600000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=152		Net=GND				(X=13995.400000 Y=11836.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=154		Net=GND				(X=13995.400000 Y=13868.400000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=156		Net=GND				(X=18660.000000 Y=5791.200000)	LayerStart=1	LayerEnd=1
+#********** END OF fix_via_hack.ulp ULP Version 4.8.0 03-03-2018 :16:46:11 LOG **********#
+
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 2.0 03-03-2018 :16:46:38 LOG **********#
+Device Name Conflict: Device=GND from internal SCH lib=SparkFun with device=GND from LIB=supply1
+Symbol Name Conflict: Symbol=GND from internal SCH lib=SparkFun with symbol=GND from LIB=supply1
+Device Name Conflict: Device=RESISTOR0402 from internal SCH lib=freetronics-master-v1 with device=RESISTOR0402 from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=RESISTOR0603 from internal SCH lib=freetronics-master-v1 with device=RESISTOR0603 from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=RESISTOR0805 from internal SCH lib=freetronics-master-v1 with device=RESISTOR0805 from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=RESISTOR0805-LARGE from internal SCH lib=freetronics-master-v1 with device=RESISTOR0805-LARGE from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=RESISTOR1206 from internal SCH lib=freetronics-master-v1 with device=RESISTOR1206 from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=RESISTOR2010 from internal SCH lib=freetronics-master-v1 with device=RESISTOR2010 from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=RESISTORPTH1 from internal SCH lib=freetronics-master-v1 with device=RESISTORPTH1 from LIB=freetronics-master-v1.1
+Device Name Conflict: Device=SJW from internal SCH lib=freetronics-master-v1 with device=SJW from LIB=jumper
+Symbol Name Conflict: Symbol=RESISTOR from internal SCH lib=freetronics-master-v1 with symbol=RESISTOR from LIB=freetronics-master-v1.1
+Symbol Name Conflict: Symbol=SJ from internal SCH lib=freetronics-master-v1 with symbol=SJ from LIB=jumper
+Package Name Conflict: Package=0603 from internal SCH lib=freetronics-master-v1 with package=0603 from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=0805 from internal SCH lib=freetronics-master-v1 with package=0805 from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=0805-LARGE from internal SCH lib=freetronics-master-v1 with package=0805-LARGE from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=1206 from internal SCH lib=freetronics-master-v1 with package=1206 from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=AXIAL-0.3 from internal SCH lib=freetronics-master-v1 with package=AXIAL-0.3 from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=C0402 from internal SCH lib=freetronics-master-v1 with package=C0402 from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=R2010 from internal SCH lib=freetronics-master-v1 with package=R2010 from LIB=freetronics-master-v1.1
+Package Name Conflict: Package=SJ from internal SCH lib=freetronics-master-v1 with package=SJ from LIB=jumper
+Package Name Conflict: Package=SJW from internal SCH lib=freetronics-master-v1 with package=SJW from LIB=jumper
+Device Name Conflict: Device=RESISTOR0402 from internal SCH lib=freetronics-master-v1.1 with device=RESISTOR0402 from LIB=freetronics-master-v1
+Device Name Conflict: Device=RESISTOR0603 from internal SCH lib=freetronics-master-v1.1 with device=RESISTOR0603 from LIB=freetronics-master-v1
+Device Name Conflict: Device=RESISTOR0805 from internal SCH lib=freetronics-master-v1.1 with device=RESISTOR0805 from LIB=freetronics-master-v1
+Device Name Conflict: Device=RESISTOR0805-LARGE from internal SCH lib=freetronics-master-v1.1 with device=RESISTOR0805-LARGE from LIB=freetronics-master-v1
+Device Name Conflict: Device=RESISTOR1206 from internal SCH lib=freetronics-master-v1.1 with device=RESISTOR1206 from LIB=freetronics-master-v1
+Device Name Conflict: Device=RESISTOR2010 from internal SCH lib=freetronics-master-v1.1 with device=RESISTOR2010 from LIB=freetronics-master-v1
+Device Name Conflict: Device=RESISTORPTH1 from internal SCH lib=freetronics-master-v1.1 with device=RESISTORPTH1 from LIB=freetronics-master-v1
+Symbol Name Conflict: Symbol=RESISTOR from internal SCH lib=freetronics-master-v1.1 with symbol=RESISTOR from LIB=freetronics-master-v1
+Package Name Conflict: Package=0603 from internal SCH lib=freetronics-master-v1.1 with package=0603 from LIB=freetronics-master-v1
+Package Name Conflict: Package=0805 from internal SCH lib=freetronics-master-v1.1 with package=0805 from LIB=freetronics-master-v1
+Package Name Conflict: Package=0805-LARGE from internal SCH lib=freetronics-master-v1.1 with package=0805-LARGE from LIB=freetronics-master-v1
+Package Name Conflict: Package=1206 from internal SCH lib=freetronics-master-v1.1 with package=1206 from LIB=freetronics-master-v1
+Package Name Conflict: Package=AXIAL-0.3 from internal SCH lib=freetronics-master-v1.1 with package=AXIAL-0.3 from LIB=freetronics-master-v1
+Package Name Conflict: Package=C0402 from internal SCH lib=freetronics-master-v1.1 with package=C0402 from LIB=freetronics-master-v1
+Package Name Conflict: Package=R2010 from internal SCH lib=freetronics-master-v1.1 with package=R2010 from LIB=freetronics-master-v1
+Device Name Conflict: Device=SJW from internal SCH lib=jumper with device=SJW from LIB=freetronics-master-v1
+Symbol Name Conflict: Symbol=SJ from internal SCH lib=jumper with symbol=SJ from LIB=freetronics-master-v1
+Package Name Conflict: Package=SJ from internal SCH lib=jumper with package=SJ from LIB=freetronics-master-v1
+Package Name Conflict: Package=SJW from internal SCH lib=jumper with package=SJW from LIB=freetronics-master-v1
+Device Name Conflict: Device=GND from internal SCH lib=supply1 with device=GND from LIB=SparkFun
+Symbol Name Conflict: Symbol=GND from internal SCH lib=supply1 with symbol=GND from LIB=SparkFun
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 2.0 03-03-2018 :16:46:38 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.8 03-03-2018 :16:46:42 LOG **********#
+OK: Eagle library export from SCH/PCB successful
+    Conversion completed with no messages
+#********** END OF exp-lbrs.ulp 6.8 03-03-2018 :16:46:42 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 3.1 03-03-2018 :16:47:38 LOG **********#
+Missing Prefix Part =-QFN				FREETRONICS-JON_QFN-44N					LeoStick		M
+Missing Prefix Part =3X2				FREETRONICS-JON_CRYSTAL-SMD-3X2					LeoStick		M
+Missing Prefix Part =SMT				FREETRONICS-MASTER-V1_19-337					LeoStick		M
+Missing Prefix Part =''				NO-PACKAGE					LeoStick		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 3.1 03-03-2018 :16:47:38 LOG **********#
+
